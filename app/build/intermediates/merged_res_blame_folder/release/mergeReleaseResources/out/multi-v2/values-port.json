@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mercedes_celular.app-mergeReleaseResources-59:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ruso\\.gradle\\caches\\transforms-4\\3042ead4ff84414400ea5c2bdc166e6e\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

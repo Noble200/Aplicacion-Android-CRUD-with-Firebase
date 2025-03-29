@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.mercedes_celular.app-mergeReleaseResources-60:/layout/fragment_product_form.xml",
+        "source": "com.example.mercedes_celular.app-main-62:/layout/fragment_product_form.xml"
+    },
+    {
+        "merged": "com.example.mercedes_celular.app-mergeReleaseResources-60:/layout/activity_main.xml",
+        "source": "com.example.mercedes_celular.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mercedes_celular.app-mergeReleaseResources-60:/layout/fragment_product_list.xml",
+        "source": "com.example.mercedes_celular.app-main-62:/layout/fragment_product_list.xml"
+    },
+    {
+        "merged": "com.example.mercedes_celular.app-mergeReleaseResources-60:/layout/item_product.xml",
+        "source": "com.example.mercedes_celular.app-main-62:/layout/item_product.xml"
+    }
+]

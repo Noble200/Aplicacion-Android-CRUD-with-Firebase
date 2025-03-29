@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/productListFragment">
+
+    <fragment
+        android:id="@+id/productListFragment"
+        android:name="com.example.mercedes_celular.ui.fragment.ProductListFragment"
+        android:label="Productos"
+        tools:layout="@layout/fragment_product_list">
+        <action
+            android:id="@+id/action_productListFragment_to_productFormFragment"
+            app:destination="@id/productFormFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/productFormFragment"
+        android:name="com.example.mercedes_celular.ui.fragment.ProductFormFragment"
+        android:label="Formulario de Producto"
+        tools:layout="@layout/fragment_product_form">
+        <argument
+            android:name="productId"
+            app:argType="string"
+            android:defaultValue="" />
+    </fragment>
+
+</navigation>
