@@ -9,8 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Mercedes_celular</string>
     <string name="gcm_defaultSenderId" translatable="false">803767394304</string>
-    <string name="google_api_key" translatable="false">AIzaSyA4voFATjbVegyB1ZO6sk26rmCkO3MlJCU</string>
-    <string name="google_app_id" translatable="false">1:803767394304:android:b89d894b55decf9ecdb8e5</string>
+    <string name="google_api_key" translatable="false">0</string>
+    <string name="google_app_id" translatable="false">0</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4voFATjbVegyB1ZO6sk26rmCkO3MlJCU</string>
     <string name="google_storage_bucket" translatable="false">prueba-punto-de-stock-online.firebasestorage.app</string>
     <string name="project_id" translatable="false">prueba-punto-de-stock-online</string>
